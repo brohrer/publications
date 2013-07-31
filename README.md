@@ -4,34 +4,34 @@ publications
 ##Selected papers on general machine intelligence
 
 
-* B Rohrer, *BECCA: Reintegrating AI for natural world interaction*, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
+* B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
 
-* B Rohrer, *Biologically inspired feature creation for multi-sensory perception*, BICA 2011
+* B Rohrer, **Biologically inspired feature creation for multi-sensory perception**, BICA 2011
 
-* B Rohrer, *A developmental agent for learning features, environment models, and general robotics tasks*, ICDL/Epirob 2011
+* B Rohrer, **A developmental agent for learning features, environment models, and general robotics tasks**, ICDL/Epirob 2011
 
-* B Rohrer, *Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction*, Journal of Artificial General Intelligence, 2:1-28, 2010
+* B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
 
 
 
 ##Journal
 
 
-11.   B Rohrer, *Response: An appeal for declaring research goals*, Journal of Artificial General Intelligence, (to appear)
+11.   B Rohrer, **Response: An appeal for declaring research goals**, Journal of Artificial General Intelligence, (to appear)
 
-10.   B Rohrer, *Concept acquisition for dialog agents*, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
+10.   B Rohrer, **Concept acquisition for dialog agents**, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
 
-9.   B Rohrer, *Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction*, Journal of Artificial General Intelligence, 2:1-28, 2010
+9.   B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
 
 8.   N Hogan, HI Krebs, B Rohrer, JJ Palazzolo, L Dipietro, SE Fasoli, J Stein, WR Frontera, BT Volpe, Motions or muscles? Some behavioral factors underlying robotic assistance of motor recovery, Journal of Rehabilitation Research and Development, 43(5):605-618, 2006
 
 7.   KD Peterson, KD Patel, CK Ho, BR Rohrer, CD Nordquist, BD Wroblewski, KB Pfeifer, LTCC microsystems and microsystem packaging, Journal of Microelectronics and Electronic Packaging, 3(3):109-120, 2006
 
-6.   B Rohrer, N Hogan, *Avoiding spurious submovement decompositions II: A scattershot algorithm*, Biological Cybernetics, 94(5):409-414, 2006
+6.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions II: A scattershot algorithm**, Biological Cybernetics, 94(5):409-414, 2006
 
-5.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, *Submovements grow larger, fewer, and more blended during stroke recovery*, Motor Control, 8(4):472-483, 2004
+5.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, **Submovements grow larger, fewer, and more blended during stroke recovery**, Motor Control, 8(4):472-483, 2004
 
-4.   B Rohrer, N Hogan, *Avoiding spurious submovement decompositions: A globally optimal algorithm,* Biological Cybernetics, 89:190-199, 2003
+4.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions: A globally optimal algorithm**, Biological Cybernetics, 89:190-199, 2003
 
 3.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, Movement smoothness changes during stroke recovery, Journal of Neuroscience, 22:8297-8304, 2002
 
@@ -48,39 +48,39 @@ publications
 
 36.   N Malone, B Rohrer, L Tapia, R Lumia, J Wood, Implementation of an embodied general reinforcement learner on a serial link manipulator, ICRA 2012
 
-35.   B Rohrer, *BECCA: Reintegrating AI for natural world interaction*, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
+35.   B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
 
-34.   B Rohrer, *Biologically inspired feature creation for multi-sensory perception*, BICA 2011
+34.   B Rohrer, **Biologically inspired feature creation for multi-sensory perception**, BICA 2011
 
 33.   JW Wheeler, J Dabling, D Chinn, T Turner, A Filatov, and B Rohrer, MEMS-Based Bubble Pressure Sensor for Prosthetic Socket Interface Pressure Measurement, EMBC 2011
 
 32.   F Rothganger, C Warrender, A Speed, B Rohrer, A Bier, D Trumbo, Connecting cognitive and neural models, BICA 2011
 
-31.   B Rohrer, *A developmental agent for learning features, environment models, and general robotics tasks*, ICDL/Epirob 2011
+31.   B Rohrer, **A developmental agent for learning features, environment models, and general robotics tasks**, ICDL/Epirob 2011
 
-30.   B Rohrer, *An implemented architecture for feature creation and general reinforcement learning*, Workshop on Self-Programming in AGI Systems, AGI 2011
+30.   B Rohrer, **An implemented architecture for feature creation and general reinforcement learning**, Workshop on Self-Programming in AGI Systems, AGI 2011
 
-29.   B Rohrer, JD Morrow, F Rothganger, P Xavier, *BECCA: A functional model of the human brain for arbitrary task learning*, Grand Challenges in Neural Computation 2011
+29.   B Rohrer, JD Morrow, F Rothganger, P Xavier, **BECCA: A functional model of the human brain for arbitrary task learning**, Grand Challenges in Neural Computation 2011
 
-28.   B Rohrer, JD Morrow, P Xavier, F Rothganger, *BECCA: A BICA for arbitrary robots in unknown worlds*, BICA 2010
+28.   B Rohrer, JD Morrow, P Xavier, F Rothganger, **BECCA: A BICA for arbitrary robots in unknown worlds**, BICA 2010
 
-27.   B Rohrer, *kx-trees: An unsupervised learning method for use in developmental agents*, ICDL 2010
+27.   B Rohrer, **kx-trees: An unsupervised learning method for use in developmental agents**, ICDL 2010
 
-26.   B Rohrer, *What we might look for in an AGI benchmark*, AGI 2010
+26.   B Rohrer, **What we might look for in an AGI benchmark**, AGI 2010
 
-25.   B Rohrer, JD Morrow, F Rothganger, PG Xavier, *Concepts from data*, BICA 2009
+25.   B Rohrer, JD Morrow, F Rothganger, PG Xavier, **Concepts from data**, BICA 2009
 
-24.   B Rohrer, M Bernard, JD Morrow, F Rothganger, P Xavier, *Model-free learning and control in a mobile robot*, ICNC 2009
+24.   B Rohrer, M Bernard, JD Morrow, F Rothganger, P Xavier, **Model-free learning and control in a mobile robot**, ICNC 2009
 
-23.   B Rohrer, *S-learning: A model-free, case-based algorithm for robot learning and control*, ICCBR, 2009
+23.   B Rohrer, **S-learning: A model-free, case-based algorithm for robot learning and control**, ICCBR, 2009
 
 22.   B Rohrer, Robust performance of autonomous robots in unstructured environments, ANS Winter Meeting 2008
 
-21.   B Rohrer, *A unified architecture for cognition and motor control based on neuroanatomy, psychophysical experiments, and cognitive behaviors*, BICA 2008
+21.   B Rohrer, **A unified architecture for cognition and motor control based on neuroanatomy, psychophysical experiments, and cognitive behaviors**, BICA 2008
 
 20.   KA Peterson, RT Knudson, EJ Garcia, KD Patel, M Okandan, CK Ho, CD James, SB Rhode, BR Rohrer, F Smith, LR Zawicki, BD Wroblewski, LTCC in microelectronics, microsystems, and sensors, MIXDES 2008
 
-19.   B Rohrer, *Robust performance of autonomous robots in unstructured environments*, ANS EPR/RRS 2008
+19.   B Rohrer, **Robust performance of autonomous robots in unstructured environments**, ANS EPR/RRS 2008
 
 18.   N Tran, B Rohrer, S Warnick, Alignment distance in path control, MSC 2007
 
@@ -88,7 +88,7 @@ publications
 
 16.   B Rohrer, S-learning: A sequence-based learning, memory, and control algorithm, Progress in Motor Control 2007
 
-15.   B Rohrer, *S-learning: A biomimetic algorithm for learning, memory, and control in robots*, EMBS Neural Engineering 2007
+15.   B Rohrer, **S-learning: A biomimetic algorithm for learning, memory, and control in robots**, EMBS Neural Engineering 2007
 
 14.   S Buerger, RH Olson III, KE Wojciechowski, S Yepez, D Novick, KA Peterson, T Turner, J Wheeler, B Rohrer, DK Kholwadwala, System design for sensory augmentation, EMBS Neural Engineering 2007
 
@@ -96,19 +96,19 @@ publications
 
 12.   KA Peterson, KD Patel, CK Ho, BR Rohrer, CD Nordquist, BD Wroblewski, KB Pfiefer, LTCC microsystems and microsystem packaging and integration applications, CICMT 2006
 
-11.   B Rohrer, S Hulet, *A learning and control approach based on the human neuromotor system*, BioRob 2006
+11.   B Rohrer, S Hulet, **A learning and control approach based on the human neuromotor system**, BioRob 2006
 
 10.   J Wheeler, B Rohrer, D Kholwadwala, J Neely, S Buerger, C Hobart, R Givler, P Galambos, In-sole MEMS pressure sensing for a lower-extremity exoskeleton, BioRob 2006
 
 9.   B Rohrer, D Kholwadwala, Systems integration in prosthetics, TATRC IRT on Neural Prosthetics 2005
 
-8.   S Hulet, B Rohrer, S Warnick, *A study in pattern assimilation for adaptation and control*, JCIS 2005
+8.   S Hulet, B Rohrer, S Warnick, **A study in pattern assimilation for adaptation and control**, JCIS 2005
 
-7.   B Rohrer, S Hulet, *A discrete-time model of human motor learning*, IGS 2005
+7.   B Rohrer, S Hulet, **A discrete-time model of human motor learning**, IGS 2005
 
 6.   B Rohrer, D Kholwadwala, Transitioning technology to pediatric critical care, NIH Workshop on Pediatric Innovative Technologies 2005
 
-5.   B Rohrer, S Fasoli, HI Krebs, B Volpe, J Stein, WR Frontera, N Hogan, *Submovement overlap as a measure of movement smoothness*, IGS 2003
+5.   B Rohrer, S Fasoli, HI Krebs, B Volpe, J Stein, WR Frontera, N Hogan, **Submovement overlap as a measure of movement smoothness**, IGS 2003
 
 4.   B Rohrer, HI Krebs, B Volpe, J Stein, WR Frontera, N Hogan, Patterns in stroke patients' submovements support a paired adaptive forward/inverse learning model, SFN Advances in Motor Control Symposium 2002
 
@@ -189,9 +189,9 @@ publications
 
 ##Theses
 
-* B Rohrer, *Evolution of Movement Smoothness and Submovement Patterns in Persons with Stroke*, PhD Thesis, Massachusetts Institute of Technology, 2002
+* B Rohrer, **Evolution of Movement Smoothness and Submovement Patterns in Persons with Stroke**, PhD Thesis, Massachusetts Institute of Technology, 2002
 
-* B Rohrer, *Study of Adaptation in Amputees*, MS Thesis, Massachusetts Institute of Technology, 1999
+* B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
 
 ##Press
