@@ -42,6 +42,8 @@ publications
 
 ##Conference
 
+39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
+
 38.   N Malone, A Faust, B Rohrer, J Wood, L Tapia, Efficient Motion-based Task Learning, IROS, Workshop on Robot Motion Planning: Online, Reactive, and in Real-Time 2012
 
 37.   LS Lincoln, M Quigley, B Rohrer, C Salisbury, J Wheeler, An optical 3D force sensor for biomedical devices, BioRob 2012
