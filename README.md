@@ -19,8 +19,7 @@ publications
 
 12.   N Malone, A Faust, B Rohrer, R Lumia, J Wood, L Tapia, Efficient Motion-based Task Learning for a Serial Link Manipulator, Transaction on Control and Mechanical Systems, 2013
 
-
-11.   B Rohrer, **Response: An appeal for declaring research goals**, Journal of Artificial General Intelligence, (to appear)
+11.   B Rohrer, **An appeal for declaring research goals. Response to: Cognitive architectures and autonomy**, Journal of Artificial General Intelligence 3(2):31-63, 2012 
 
 10.   B Rohrer, **Concept acquisition for dialog agents**, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
 
