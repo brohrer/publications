@@ -225,6 +225,7 @@ publications
 
 ##Program Committee
 
+* 2014 IROS Workshop on Machine Learning in Planning and Controls, Chicago, IL, USA
 * 2013 IEEE Symposium on Computational Intelligence for Human-like Intelligence, Special Session on Embodied Artificial General Intelligence, Singapore
 * 2012 AAAI Biologically-Inspired Cognitive Architectures Conference, Palermo, Italy
 * 2012 Intl Conf on Development and Learning and Epigenetic Robotics, San Diego, CA, USA
