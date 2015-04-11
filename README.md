@@ -1,4 +1,4 @@
-publications
+Publications
 ============
 
 ##Selected papers on general machine intelligence
@@ -205,9 +205,11 @@ publications
 * A Kruel, Q&A with experts on risks from AI #1, LessWrong, Jan 8, 2012.
 
 
-##Community
+Community
+=========
 
-* Editorial Board
+##Editorial Board
+
 * Journal of Artificial General Intelligence
 * Biologically Inspired Cognitive Architectures
 
