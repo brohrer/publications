@@ -208,7 +208,8 @@ Publications
 Community
 =========
 
-##Advisory Board 
+##Advisory Council 
+
 * Industry Professional Advisory Council (IPAC) for the Department of Computer Science and Networking at Wentworth Institute of Technology
 
 ##Editorial Board
