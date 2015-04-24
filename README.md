@@ -208,6 +208,9 @@ Publications
 Community
 =========
 
+##Advisory Board 
+* Industry Professional Advisory Council (IPAC) for the Department of Computer Science and Networking at Wentworth Institute of Technology
+
 ##Editorial Board
 
 * Journal of Artificial General Intelligence
