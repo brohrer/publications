@@ -184,6 +184,8 @@ Publications
 
 ##Patents
 
+4. H Anderson, JW Wheeler, J Helms, KW Larson, BR Rohrer, Sparse Sampling and Reconstruction for Electron and Scanning Probe Microscope Imaging, 2015. US Patent No. 9,093,249
+
 3.   JF Jones, BA Kast, MW Kniskern, SE Rose, BR Rohrer, JW Woods, RW Greene, Small Caliber Guided Projectile, 2010. US Patent No. 7,781,709
 
 2.   DK Kholwadwala, BR Rohrer, BL Spletzer, PC Galambos, JW Wheeler, CG Hobart, and RC Givler, Microelectro-Mechanical System (MEMS) Pressure Sensor for Footwear, 2008. US Patent No. 7,426,873
