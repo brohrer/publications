@@ -199,6 +199,13 @@ Publications
 
 * B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
+##Online
+
+3. B Rohrer, [What Can Data Science Do For Me?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015.
+
+2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015.
+
+1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015.
 
 ##Press
 
