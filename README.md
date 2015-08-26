@@ -199,7 +199,7 @@ Publications
 
 * B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
-##Online
+##Web
 
 3. B Rohrer, [What Can Data Science Do For Me?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015.
 
