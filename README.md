@@ -125,7 +125,7 @@ Publications
 
 ##Invited
 
-8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](aiukraine.com), Kharkov, Ukraine, Sep 12, 2015
+8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](http://www.aiukraine.com), Kharkov, Ukraine, Sep 12, 2015
 
 7.   B Rohrer, Dimensions of Machine Intelligence, KNME Science Cafe, KNME Studios, Albuquerque, New Mexico, Nov 17, 2012
 
