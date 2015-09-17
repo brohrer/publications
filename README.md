@@ -125,6 +125,8 @@ Publications
 
 ##Invited
 
+8.   B Rohrer, Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things,  aiukraine.com, Kharkov, Ukraine, Sep 12, 2015
+
 7.   B Rohrer, Dimensions of Machine Intelligence, KNME Science Cafe, KNME Studios, Albuquerque, New Mexico, Nov 17, 2012
 
 6.   B Rohrer, Robots in the wild: A general learning agent for natural world interaction, Computer Science Colloquium, University of New Mexico, Albuquerque, New Mexico, Apr 28, 2011
