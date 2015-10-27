@@ -203,6 +203,10 @@ Publications
 
 ##Web
 
+7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
+
+6. B Rohrer, [How to Find an Algorithm that Fits] (http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015.
+ 
 5. B Rohrer, [Which Algorithm Family Can Solve My Question?] (http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015.
 
 4. B Rohrer, [What Types of Questions Can Data Science Answer?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx), Microsoft Machine Learning Blog, Aug 27, 2015. [Reposted] (http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html/1), KDNuggets, Oct 3, 2015.
