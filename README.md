@@ -203,6 +203,8 @@ Publications
 
 ##Web
 
+100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+
 7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
 
 6. B Rohrer, [How to Find an Algorithm that Fits] (http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015.
