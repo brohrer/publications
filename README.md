@@ -1,4 +1,4 @@
-publications
+Publications
 ============
 
 ##Selected papers on general machine intelligence
@@ -125,6 +125,8 @@ publications
 
 ##Invited
 
+8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](http://www.aiukraine.com), Kharkov, Ukraine, Sep 12, 2015
+
 7.   B Rohrer, Dimensions of Machine Intelligence, KNME Science Cafe, KNME Studios, Albuquerque, New Mexico, Nov 17, 2012
 
 6.   B Rohrer, Robots in the wild: A general learning agent for natural world interaction, Computer Science Colloquium, University of New Mexico, Albuquerque, New Mexico, Apr 28, 2011
@@ -184,6 +186,8 @@ publications
 
 ##Patents
 
+4. H Anderson, JW Wheeler, J Helms, KW Larson, BR Rohrer, Sparse Sampling and Reconstruction for Electron and Scanning Probe Microscope Imaging, 2015. US Patent No. 9,093,249
+
 3.   JF Jones, BA Kast, MW Kniskern, SE Rose, BR Rohrer, JW Woods, RW Greene, Small Caliber Guided Projectile, 2010. US Patent No. 7,781,709
 
 2.   DK Kholwadwala, BR Rohrer, BL Spletzer, PC Galambos, JW Wheeler, CG Hobart, and RC Givler, Microelectro-Mechanical System (MEMS) Pressure Sensor for Footwear, 2008. US Patent No. 7,426,873
@@ -197,6 +201,23 @@ publications
 
 * B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
+##Web
+
+100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+
+7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
+
+6. B Rohrer, [How to Find an Algorithm that Fits] (http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015.
+ 
+5. B Rohrer, [Which Algorithm Family Can Solve My Question?] (http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015.
+
+4. B Rohrer, [What Types of Questions Can Data Science Answer?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx), Microsoft Machine Learning Blog, Aug 27, 2015. [Reposted] (http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html/1), KDNuggets, Oct 3, 2015.
+
+3. B Rohrer, [What Can Data Science Do For Me?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015.
+
+2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015.
+
+1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015.
 
 ##Press
 
@@ -205,9 +226,15 @@ publications
 * A Kruel, Q&A with experts on risks from AI #1, LessWrong, Jan 8, 2012.
 
 
-##Community
+Community
+=========
 
-* Editorial Board
+##Advisory Council 
+
+* Industry Professional Advisory Council (IPAC) for the Department of Computer Science and Networking at Wentworth Institute of Technology
+
+##Editorial Board
+
 * Journal of Artificial General Intelligence
 * Biologically Inspired Cognitive Architectures
 
