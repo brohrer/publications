@@ -125,7 +125,9 @@ Publications
 
 ##Invited
 
-8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](http://www.aiukraine.com), Kharkov, Ukraine, Sep 12, 2015
+9.   B Rohrer, **The Other Stuff: Getting from Machine Learning to Data Science**, The Data Science Conference, Chicago, Illinois, Nov 11, 2015
+
+8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](http://www.aiukraine.com), AI Ukraine 2015, Kharkov, Ukraine, Sep 12, 2015
 
 7.   B Rohrer, Dimensions of Machine Intelligence, KNME Science Cafe, KNME Studios, Albuquerque, New Mexico, Nov 17, 2012
 
@@ -201,9 +203,14 @@ Publications
 
 * B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
+
 ##Web
 
 100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+
+99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/tag/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+
+8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
 7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
 
@@ -246,6 +253,7 @@ Community
 
 ##Core Organizing Committee
 
+* 2016 Artificial General Intelligence Conference, New York, USA
 * 2012 Artificial General Intelligence Conference, Oxford, England
 * 2011 AAAI Biologically-Inspired Cognitive Architectures Conference, Arlington, VA, USA
 * 2011 Artificial General Intelligence Conference, Mountain View, CA, USA
@@ -268,6 +276,7 @@ Community
 * IEEE Transactions on Autonomous Mental Development
 * IEEE Transactions on Biomedical Engineering
 * IEEE Transactions on Neural Systems and Rehabilitation Engineering
+* Journal of Aritificial General Intelligence
 * Journal of Biomechanics
 * Journal of Neurological Sciences
 * Motor Control
