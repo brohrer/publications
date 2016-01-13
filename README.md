@@ -44,7 +44,7 @@ Publications
 
 ##Conference
 
-40.   B Rohrer, **The Other Stuff: Getting from Machine Learning to Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS 2016
+40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS 2016
 
 39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
 
