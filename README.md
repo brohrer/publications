@@ -44,6 +44,8 @@ Publications
 
 ##Conference
 
+40.   B Rohrer, [**The Other Stuff: Getting from Machine Learning to Data Science**](https://youtu.be/y38UkZjN8uc), MLADS 2016
+
 39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
 
 38.   N Malone, A Faust, B Rohrer, J Wood, L Tapia, Efficient Motion-based Task Learning, IROS, Workshop on Robot Motion Planning: Online, Reactive, and in Real-Time 2012
@@ -210,7 +212,7 @@ Publications
 
 99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/tag/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
-8. B Rohrer, [**Data Science for the Rest of Us**](https://youtu.be/y38UkZjN8uc), webinar, Dec 2, 2015.
+8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
 7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
 
