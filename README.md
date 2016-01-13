@@ -210,7 +210,7 @@ Publications
 
 99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/tag/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
-8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
+8. B Rohrer, [**Data Science for the Rest of Us**](https://youtu.be/y38UkZjN8uc), webinar, Dec 2, 2015.
 
 7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
 
