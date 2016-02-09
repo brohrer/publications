@@ -238,8 +238,9 @@ Publications
 Community
 =========
 
-##Advisory Council 
+##Advisory Board
 
+* (The Data Science Conference Advisory Board)[http://www.thedatascienceconference.com/#!advisory-board/c1m03]
 * Industry Professional Advisory Council (IPAC) for the Department of Computer Science and Networking at Wentworth Institute of Technology
 
 ##Editorial Board
