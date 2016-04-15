@@ -44,6 +44,8 @@ Publications
 
 ##Conference
 
+41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things**([video](https://youtu.be/EXs3nHwLIt0)), Strata+Hadoop San Jose 2016
+
 40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS 2016
 
 39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
@@ -211,6 +213,12 @@ Publications
 100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
 
 99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/tag/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+
+11. B Rohrer, [A Pocket Guide to Data Science] (https://www.linkedin.com/pulse/pocket-guide-data-science-brandon-rohrer), LinkedIn post, Apr 5, 2016.
+
+10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (https://www.linkedin.com/pulse/one-step-pregram-becoming-data-scientist-brandon-rohrer), LinkedIn post, Jan 24, 2016.
+
+9. B Rohrer, [You Can Stop Chasing Unicorns] (https://www.linkedin.com/pulse/you-can-stop-chasing-unicorns-brandon-rohrer), LinkedIn post, Dec 15, 2016.
 
 8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
