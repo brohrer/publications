@@ -50,7 +50,7 @@ Publications
 
 41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](https://youtu.be/EXs3nHwLIt0)), Strata+Hadoop San Jose 2016
 
-40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS 2016
+40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS Winter 2015
 
 39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
 
