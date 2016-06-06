@@ -44,7 +44,11 @@ Publications
 
 ##Conference
 
-41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things**([video](https://youtu.be/EXs3nHwLIt0)), Strata+Hadoop San Jose 2016
+43.   B Rohrer, **Data Science for Absolutely Everybody** ([video](https://youtu.be/tKa0zDDDaQk)), MLADS Spring 2016
+
+42.   B Rohrer, **Deep Learning Demystified** ([video](https://youtu.be/Q9Z20HCPnww)), ODSC Boston 2016
+
+41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](https://youtu.be/EXs3nHwLIt0)), Strata+Hadoop San Jose 2016
 
 40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science**([video](https://youtu.be/y38UkZjN8uc)), MLADS 2016
 
@@ -255,7 +259,6 @@ Community
 
 * Journal of Artificial General Intelligence
 * Biologically Inspired Cognitive Architectures
-
 
 ##Member
 
