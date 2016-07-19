@@ -295,6 +295,7 @@ Community
 
 ##Reviewer
 
+* Action Editor for PS Rosenbloom, A Demski, V Ustun, [The Sigma Cognitive Architecture and System: Towards Functionally Elegant Grand Unification](http://www.degruyter.com/view/j/jagi.ahead-of-print/jagi-2016-0001/jagi-2016-0001.xml?format=INT), Journal of Artificial General Intelligence, 2016
 * Human Movement Science
 * IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Autonomous Mental Development
