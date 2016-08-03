@@ -12,9 +12,9 @@ Publications
 
 * B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
 
-##Open Source Software
+##Code
 
-* B Rohrer, [BECCA](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
+* B Rohrer, [Becca](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
 
 ##Journal
 
