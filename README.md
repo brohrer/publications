@@ -230,11 +230,11 @@ Publications
 
 12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016.
 
-11. B Rohrer, [A Pocket Guide to Data Science] (https://www.linkedin.com/pulse/pocket-guide-data-science-brandon-rohrer), LinkedIn post, Apr 5, 2016.
+11. B Rohrer, [A Pocket Guide to Data Science] (https://www.linkedin.com/pulse/pocket-guide-data-science-brandon-rohrer), blog post, Apr 5, 2016.
 
-10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (https://www.linkedin.com/pulse/one-step-pregram-becoming-data-scientist-brandon-rohrer), LinkedIn post, Jan 24, 2016.
+10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (https://www.linkedin.com/pulse/one-step-pregram-becoming-data-scientist-brandon-rohrer), blog post, Jan 24, 2016.
 
-9. B Rohrer, [You Can Stop Chasing Unicorns] (https://www.linkedin.com/pulse/you-can-stop-chasing-unicorns-brandon-rohrer), LinkedIn post, Dec 15, 2016.
+9. B Rohrer, [You Can Stop Chasing Unicorns] (https://www.linkedin.com/pulse/you-can-stop-chasing-unicorns-brandon-rohrer), blog post, Dec 15, 2016.
 
 8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
