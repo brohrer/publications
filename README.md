@@ -218,7 +218,7 @@ Publications
 
 100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
 
-99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/tag/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
 16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
 
