@@ -46,13 +46,13 @@ Publications
 
 ##Conference
 
-43.   B Rohrer, **Data Science for Absolutely Everybody** ([video](https://youtu.be/tKa0zDDDaQk)), MLADS Spring 2016
+43.   B Rohrer, **Data Science for Absolutely Everybody** ([video](http://brohrer.github.io/pocket_guide_data_science.html)), MLADS Spring 2016
 
-42.   B Rohrer, **Deep Learning Demystified** ([video](https://youtu.be/Q9Z20HCPnww)), ODSC Boston 2016
+42.   B Rohrer, **Deep Learning Demystified** ([video](http://brohrer.github.io/deep_learning_demystified.html)), ODSC Boston 2016
 
-41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](https://youtu.be/EXs3nHwLIt0)), Strata+Hadoop San Jose 2016
+41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](http://brohrer.github.io/adaptive_reinforcement_learning_iot.html)), Strata+Hadoop San Jose 2016
 
-40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science** ([video](https://youtu.be/y38UkZjN8uc)), MLADS Winter 2015
+40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science** ([video](http://brohrer.github.io/data_science_other_stuff.html)), MLADS Winter 2015
 
 39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
 
@@ -216,9 +216,13 @@ Publications
 
 ##Web
 
-100. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+100. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
 
-99. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+99. B Rohrer, [Brandon Rohrer's Channel (multiple)] (https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube.
+
+98. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+
+97. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
 16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
 
@@ -230,11 +234,11 @@ Publications
 
 12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016.
 
-11. B Rohrer, [A Pocket Guide to Data Science] (https://www.linkedin.com/pulse/pocket-guide-data-science-brandon-rohrer), blog post, Apr 5, 2016.
+11. B Rohrer, [A Pocket Guide to Data Science] (http://brohrer.github.io/pocket_guide_data_science.html), blog post, Apr 5, 2016.
 
-10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (https://www.linkedin.com/pulse/one-step-pregram-becoming-data-scientist-brandon-rohrer), blog post, Jan 24, 2016.
+10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (http://brohrer.github.io/one_step_program_become_data_scientist.html), blog post, Jan 24, 2016.
 
-9. B Rohrer, [You Can Stop Chasing Unicorns] (https://www.linkedin.com/pulse/you-can-stop-chasing-unicorns-brandon-rohrer), blog post, Dec 15, 2016.
+9. B Rohrer, [You Can Stop Chasing Unicorns] (http://brohrer.github.io/stop_chasing_unicorns.html), blog post, Dec 15, 2016.
 
 8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
