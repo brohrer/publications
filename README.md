@@ -224,6 +224,8 @@ Publications
 
 97. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
+18. M. Mayo, [KDnuggets Top Blogger: An Interview with Brandon Rohrer, Top Data Scientist](http://www.kdnuggets.com/2017/02/top-blogger-interview-brandon-rohrer-data-science.html), [KDnuggets blog](http://www.kdnuggets.com/), Feb 13, 2017.
+
 17. B Rohrer, [Data Science for Absolutely Everybody] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016.
 
 16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
