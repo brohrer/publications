@@ -1,7 +1,7 @@
 Publications
 ============
 
-##Selected papers on general machine intelligence
+## Selected papers on general machine intelligence
 
 
 * B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
@@ -12,11 +12,11 @@ Publications
 
 * B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
 
-##Code
+## Code
 
 * B Rohrer, [Becca](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
 
-##Journal
+## Journal
 
 
 1.   N Malone, A Faust, B Rohrer, R Lumia, J Wood, L Tapia, Efficient Motion-based Task Learning for a Serial Link Manipulator, Transaction on Control and Mechanical Systems, 2014
@@ -44,7 +44,7 @@ Publications
 1.   J Won, B Rohrer, N Hogan, The stability and control of physical interaction, International Journal of Intelligent Mechatronics: Design and Production, 4(1):5-33, 1999
 
 
-##Conference
+## Conference
 
 1.   B Rohrer, **Data Science for Absolutely Everybody** ([video](http://brohrer.github.io/pocket_guide_data_science.html)), MLADS Spring 2016
 
@@ -133,7 +133,7 @@ Publications
 1.   HI Krebs, B Volpe, J Palazzolo, B Rohrer, M Ferraro, S Fasoli, L Edelstein, N Hogan, Robot-aided neuro-rehabilitation in stroke: Interim results on the follow-up of 76 patients and on movement performance indices, ICRR 2001
 
 
-##Invited
+## Invited
 
 1.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
 
@@ -156,7 +156,7 @@ Publications
 1.   B Rohrer, Robust performance of autonomous robots in unstructured environments, ANS Winter Meeting 2008
 
 
-##Book Chapters
+## Book Chapters
 
 1.   T Appel, R Fierro, B Rohrer, R Lumia, J Wood, A learning strategy for source tracking in unstructured environments, Reinforcement Learning and Approximate Dynamic Programming for Feedback Control, Ed. FL Lewis, D Liu. John Wiley and Sons (in press)
 
@@ -167,7 +167,7 @@ Publications
 1.   HI Krebs, B Volpe, J Palazzolo, B Rohrer, M Ferraro, S Fasoli, L Edelstein, N Hogan, Robot-aided neuro-rehabilitation in stroke: Interim results on the follow-up of 76 patients and on movement performance indices, Integration of Assistive Technology in the Information Age, Assistive Technology Research Series, Ed. M Mokhtari. Amsterdam: IOS Press, 2001
 
 
-##Technical Reports
+## Technical Reports
 
 1.   B Rohrer, JD Morrow, FH Rothganger, PG Xavier, JS Wagner, Final Report for LDRD Project 11-0783: Directed Robots for Increased Military Manpower Effectiveness, Sandia Technical Report SAND2011-7348, 2011
 
@@ -198,7 +198,7 @@ Publications
 1.   B Rohrer, JF Jones, B Swartzentruber, In Preparation for Rigid-Body Manipulation of Carbon Nanotubes, Sandia Technical Report 2003-3472, 2003
 
 
-##Patents
+## Patents
 
 1. H Anderson, JW Wheeler, J Helms, KW Larson, BR Rohrer, Sparse Sampling and Reconstruction for Electron and Scanning Probe Microscope Imaging, 2015. US Patent No. 9,093,249
 
@@ -209,14 +209,14 @@ Publications
 1.   DK Kholwadwala, GA Johnson, BR Rohrer, PC Galambos, M Okandan, MEMS Fluidic Actuator, 2007. US Patent No. 7,246,524
 
 
-##Theses
+## Theses
 
 * B Rohrer, **Evolution of Movement Smoothness and Submovement Patterns in Persons with Stroke**, PhD Thesis, Massachusetts Institute of Technology, 2002
 
 * B Rohrer, **Study of Adaptation in Amputees**, MS Thesis, Massachusetts Institute of Technology, 1999
 
 
-##Web
+## Web
 
 1. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
 
@@ -262,7 +262,7 @@ Publications
 
 1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015.
 
-##Press
+## Press
 
 * S Olson, Researcher predicts AIs with dog-level intelligence within a decade, Next Big Future, Jan 3, 2012.
 
@@ -272,29 +272,29 @@ Publications
 Community
 =========
 
-##Advisory Board
+## Advisory Board
 
 * The Data Science Conference [Advisory Board](http://www.thedatascienceconference.com/#!advisory-board/c1m03)
 * Industry Professional Advisory Council (IPAC) for the Department of Computer Science and Networking at Wentworth Institute of Technology
 
-##Editorial Board
+## Editorial Board
 
 * Journal of Artificial General Intelligence
 * Biologically Inspired Cognitive Architectures
 
-##Member
+## Member
 
 * IEEE CIS ETTC Task Force: Towards Human-like Intelligence
 * ANSI/RIA R15.06 Robot Safety Committee
 
-##Core Organizing Committee
+## Core Organizing Committee
 
 * 2016 Artificial General Intelligence Conference, New York, USA
 * 2012 Artificial General Intelligence Conference, Oxford, England
 * 2011 AAAI Biologically-Inspired Cognitive Architectures Conference, Arlington, VA, USA
 * 2011 Artificial General Intelligence Conference, Mountain View, CA, USA
 
-##Program Committee
+## Program Committee
 
 * 2014 IROS Workshop on Machine Learning in Planning and Controls, Chicago, IL, USA
 * 2013 IEEE Symposium on Computational Intelligence for Human-like Intelligence, Special Session on Embodied Artificial General Intelligence, Singapore
@@ -305,7 +305,7 @@ Community
 * 2009 AAAI Biologically-Inspired Cognitive Architectures Symposium, Arlington, VA, USA
 * 2005 IEEE/ASME International Conference on Advanced Intelligent Mechatrontics, Monterey, CA, USA
 
-##Reviewer
+## Reviewer
 
 * Action Editor for PS Rosenbloom, A Demski, V Ustun, [The Sigma Cognitive Architecture and System: Towards Functionally Elegant Grand Unification](http://www.degruyter.com/view/j/jagi.ahead-of-print/jagi-2016-0001/jagi-2016-0001.xml?format=INT), Journal of Artificial General Intelligence, 2016
 * Human Movement Science
