@@ -236,9 +236,9 @@ Publications
 
 14. B Rohrer, [Data Science for Beginners video 3: Ask a question you can answer with data](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-ask-a-question-you-can-answer-with-data/), Microsoft Azure documentation page, Jun 28, 2016.
 
-13. B Rohrer, [Data Science for Beginners video 2: Is your data ready for data science?] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science/), Microsoft Azure documentation page, Jun 27, 2016.
+13. B Rohrer, [Data Science for Beginners video 2: Is your data ready for data science?](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science/), Microsoft Azure documentation page, Jun 27, 2016.
 
-12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016.
+12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016.
 
 11. B Rohrer, [A Pocket Guide to Data Science](http://brohrer.github.io/pocket_guide_data_science.html), blog post, Apr 5, 2016.
 
