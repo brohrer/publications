@@ -242,23 +242,23 @@ Publications
 
 11. B Rohrer, [A Pocket Guide to Data Science](http://brohrer.github.io/pocket_guide_data_science.html), blog post, Apr 5, 2016.
 
-10. B Rohrer, [A One-Step Program for Becoming a Data Scientist] (http://brohrer.github.io/one_step_program_become_data_scientist.html), blog post, Jan 24, 2016.
+10. B Rohrer, [A One-Step Program for Becoming a Data Scientist](http://brohrer.github.io/one_step_program_become_data_scientist.html), blog post, Jan 24, 2016.
 
 9. B Rohrer, [You Can Stop Chasing Unicorns](http://brohrer.github.io/stop_chasing_unicorns.html), blog post, Dec 15, 2016.
 
 8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
 
-7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science] (http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
+7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science](http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
 
 6. B Rohrer, [How to Find an Algorithm that Fits](http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015.
  
-5. B Rohrer, [Which Algorithm Family Can Solve My Question?] (http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015.
+5. B Rohrer, [Which Algorithm Family Can Solve My Question?](http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015.
 
 4. B Rohrer, [What Types of Questions Can Data Science Answer?] (http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx), Microsoft Machine Learning Blog, Aug 27, 2015. [Reposted](http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html/1), KDNuggets, Oct 3, 2015.
 
 3. B Rohrer, [What Can Data Science Do For Me?](http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015.
 
-2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015.
+2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015.
 
 1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015.
 
