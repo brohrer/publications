@@ -23,30 +23,30 @@ Publications
 
 11.   B Rohrer, **An appeal for declaring research goals. Response to: Cognitive architectures and autonomy**, Journal of Artificial General Intelligence 3(2):31-63, 2012 
 
-10.   B Rohrer, **Concept acquisition for dialog agents**, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
+1.   B Rohrer, **Concept acquisition for dialog agents**, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
 
-9.   B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
+1.   B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
 
-8.   N Hogan, HI Krebs, B Rohrer, JJ Palazzolo, L Dipietro, SE Fasoli, J Stein, WR Frontera, BT Volpe, Motions or muscles? Some behavioral factors underlying robotic assistance of motor recovery, Journal of Rehabilitation Research and Development, 43(5):605-618, 2006
+1.   N Hogan, HI Krebs, B Rohrer, JJ Palazzolo, L Dipietro, SE Fasoli, J Stein, WR Frontera, BT Volpe, Motions or muscles? Some behavioral factors underlying robotic assistance of motor recovery, Journal of Rehabilitation Research and Development, 43(5):605-618, 2006
 
-7.   KD Peterson, KD Patel, CK Ho, BR Rohrer, CD Nordquist, BD Wroblewski, KB Pfeifer, LTCC microsystems and microsystem packaging, Journal of Microelectronics and Electronic Packaging, 3(3):109-120, 2006
+1.   KD Peterson, KD Patel, CK Ho, BR Rohrer, CD Nordquist, BD Wroblewski, KB Pfeifer, LTCC microsystems and microsystem packaging, Journal of Microelectronics and Electronic Packaging, 3(3):109-120, 2006
 
-6.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions II: A scattershot algorithm**, Biological Cybernetics, 94(5):409-414, 2006
+1.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions II: A scattershot algorithm**, Biological Cybernetics, 94(5):409-414, 2006
 
-5.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, **Submovements grow larger, fewer, and more blended during stroke recovery**, Motor Control, 8(4):472-483, 2004
+1.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, **Submovements grow larger, fewer, and more blended during stroke recovery**, Motor Control, 8(4):472-483, 2004
 
-4.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions: A globally optimal algorithm**, Biological Cybernetics, 89:190-199, 2003
+1.   B Rohrer, N Hogan, **Avoiding spurious submovement decompositions: A globally optimal algorithm**, Biological Cybernetics, 89:190-199, 2003
 
-3.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, Movement smoothness changes during stroke recovery, Journal of Neuroscience, 22:8297-8304, 2002
+1.   B Rohrer, S Fasoli, HI Krebs, R Hughes, B Volpe, J Stein, WR Frontera, N Hogan, Movement smoothness changes during stroke recovery, Journal of Neuroscience, 22:8297-8304, 2002
 
-2.   HI Krebs, BT Volpe, M Ferraro, S Fasoli, J Palazzolo, B Rohrer, L Edelstein, N Hogan, Robot-aided neurorehabilitation: From evidence-based to science-based rehabilitation, Topics in Stroke Rehabilitation, 8(4):54-70, 2002
+1.   HI Krebs, BT Volpe, M Ferraro, S Fasoli, J Palazzolo, B Rohrer, L Edelstein, N Hogan, Robot-aided neurorehabilitation: From evidence-based to science-based rehabilitation, Topics in Stroke Rehabilitation, 8(4):54-70, 2002
 
 1.   J Won, B Rohrer, N Hogan, The stability and control of physical interaction, International Journal of Intelligent Mechatronics: Design and Production, 4(1):5-33, 1999
 
 
 ##Conference
 
-43.   B Rohrer, **Data Science for Absolutely Everybody** ([video](http://brohrer.github.io/pocket_guide_data_science.html)), MLADS Spring 2016
+1.   B Rohrer, **Data Science for Absolutely Everybody** ([video](http://brohrer.github.io/pocket_guide_data_science.html)), MLADS Spring 2016
 
 42.   B Rohrer, **Deep Learning Demystified** ([video](http://brohrer.github.io/deep_learning_demystified.html)), ODSC Boston 2016
 
