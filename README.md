@@ -220,19 +220,19 @@ Publications
 
 1. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
 
-99. B Rohrer, [Brandon Rohrer's Channel (multiple)] (https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube.
+99. B Rohrer, [Brandon Rohrer's Channel (multiple)](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube.
 
 98. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
 
-97. B Rohrer, [KDnuggets reposts (multiple)] (http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+97. B Rohrer, [KDnuggets reposts (multiple)](http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
 18. M. Mayo, [KDnuggets Top Blogger: An Interview with Brandon Rohrer, Top Data Scientist](http://www.kdnuggets.com/2017/02/top-blogger-interview-brandon-rohrer-data-science.html), [KDnuggets blog](http://www.kdnuggets.com/), Feb 13, 2017.
 
-17. B Rohrer, [Data Science for Absolutely Everybody] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016.
+17. B Rohrer, [Data Science for Absolutely Everybody](https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016.
 
-16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
+16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
 
-15. B Rohrer, [Data Science for Beginners video 4: Predict an answer with a simple model] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-predict-an-answer-with-a-simple-model/), Microsoft Azure documentation page, Jun 29, 2016.
+15. B Rohrer, [Data Science for Beginners video 4: Predict an answer with a simple model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-predict-an-answer-with-a-simple-model/), Microsoft Azure documentation page, Jun 29, 2016.
 
 14. B Rohrer, [Data Science for Beginners video 3: Ask a question you can answer with data] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-ask-a-question-you-can-answer-with-data/), Microsoft Azure documentation page, Jun 28, 2016.
 
