@@ -135,6 +135,8 @@ Publications
 
 ##Invited
 
+10.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
+
 9.   B Rohrer, **The Other Stuff: Getting from Machine Learning to Data Science**, The Data Science Conference, Chicago, Illinois, Nov 11, 2015
 
 8.   B Rohrer, [Closing the loop: A scalable ensemble reinforcement learning algorithm for the internet of things](http://www.aiukraine.com), AI Ukraine 2015, Kharkov, Ukraine, Sep 12, 2015
