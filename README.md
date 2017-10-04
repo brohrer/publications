@@ -19,9 +19,9 @@ Publications
 ##Journal
 
 
-12.   N Malone, A Faust, B Rohrer, R Lumia, J Wood, L Tapia, Efficient Motion-based Task Learning for a Serial Link Manipulator, Transaction on Control and Mechanical Systems, 2014
+1.   N Malone, A Faust, B Rohrer, R Lumia, J Wood, L Tapia, Efficient Motion-based Task Learning for a Serial Link Manipulator, Transaction on Control and Mechanical Systems, 2014
 
-11.   B Rohrer, **An appeal for declaring research goals. Response to: Cognitive architectures and autonomy**, Journal of Artificial General Intelligence 3(2):31-63, 2012 
+1.   B Rohrer, **An appeal for declaring research goals. Response to: Cognitive architectures and autonomy**, Journal of Artificial General Intelligence 3(2):31-63, 2012 
 
 1.   B Rohrer, **Concept acquisition for dialog agents**, International Journal of Computational Linguistics Research, 1(3):189-201, 2010
 
@@ -48,41 +48,41 @@ Publications
 
 1.   B Rohrer, **Data Science for Absolutely Everybody** ([video](http://brohrer.github.io/pocket_guide_data_science.html)), MLADS Spring 2016
 
-42.   B Rohrer, **Deep Learning Demystified** ([video](http://brohrer.github.io/deep_learning_demystified.html)), ODSC Boston 2016
+1.   B Rohrer, **Deep Learning Demystified** ([video](http://brohrer.github.io/deep_learning_demystified.html)), ODSC Boston 2016
 
-41.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](http://brohrer.github.io/adaptive_reinforcement_learning_iot.html)), Strata+Hadoop San Jose 2016
+1.   B Rohrer, **How to Turn Your House into a Robot: An Adaptive Reinforcement Learning Algorithm for the Internet of Things** ([video](http://brohrer.github.io/adaptive_reinforcement_learning_iot.html)), Strata+Hadoop San Jose 2016
 
-40.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science** ([video](http://brohrer.github.io/data_science_other_stuff.html)), MLADS Winter 2015
+1.   B Rohrer, **The Other Stuff: Turning Machine Learning into Data Science** ([video](http://brohrer.github.io/data_science_other_stuff.html)), MLADS Winter 2015
 
-39.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
+1.   JD Doak, J Ingram, J Shelburg, J Johnson, B Rohrer, Active Learning for Alert Triage, ICMLA 2013
 
-38.   N Malone, A Faust, B Rohrer, J Wood, L Tapia, Efficient Motion-based Task Learning, IROS, Workshop on Robot Motion Planning: Online, Reactive, and in Real-Time 2012
+1.   N Malone, A Faust, B Rohrer, J Wood, L Tapia, Efficient Motion-based Task Learning, IROS, Workshop on Robot Motion Planning: Online, Reactive, and in Real-Time 2012
 
-37.   LS Lincoln, M Quigley, B Rohrer, C Salisbury, J Wheeler, An optical 3D force sensor for biomedical devices, BioRob 2012
+1.   LS Lincoln, M Quigley, B Rohrer, C Salisbury, J Wheeler, An optical 3D force sensor for biomedical devices, BioRob 2012
 
-36.   N Malone, B Rohrer, L Tapia, R Lumia, J Wood, Implementation of an embodied general reinforcement learner on a serial link manipulator, ICRA 2012
+1.   N Malone, B Rohrer, L Tapia, R Lumia, J Wood, Implementation of an embodied general reinforcement learner on a serial link manipulator, ICRA 2012
 
-35.   B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
+1.   B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
 
-34.   B Rohrer, **Biologically inspired feature creation for multi-sensory perception**, BICA 2011
+1.   B Rohrer, **Biologically inspired feature creation for multi-sensory perception**, BICA 2011
 
-33.   JW Wheeler, J Dabling, D Chinn, T Turner, A Filatov, and B Rohrer, MEMS-Based Bubble Pressure Sensor for Prosthetic Socket Interface Pressure Measurement, EMBC 2011
+1.   JW Wheeler, J Dabling, D Chinn, T Turner, A Filatov, and B Rohrer, MEMS-Based Bubble Pressure Sensor for Prosthetic Socket Interface Pressure Measurement, EMBC 2011
 
-32.   F Rothganger, C Warrender, A Speed, B Rohrer, A Bier, D Trumbo, Connecting cognitive and neural models, BICA 2011
+1.   F Rothganger, C Warrender, A Speed, B Rohrer, A Bier, D Trumbo, Connecting cognitive and neural models, BICA 2011
 
-31.   B Rohrer, **A developmental agent for learning features, environment models, and general robotics tasks**, ICDL/Epirob 2011
+1.   B Rohrer, **A developmental agent for learning features, environment models, and general robotics tasks**, ICDL/Epirob 2011
 
-30.   B Rohrer, **An implemented architecture for feature creation and general reinforcement learning**, Workshop on Self-Programming in AGI Systems, AGI 2011
+1.   B Rohrer, **An implemented architecture for feature creation and general reinforcement learning**, Workshop on Self-Programming in AGI Systems, AGI 2011
 
-29.   B Rohrer, JD Morrow, F Rothganger, P Xavier, **BECCA: A functional model of the human brain for arbitrary task learning**, Grand Challenges in Neural Computation 2011
+1.   B Rohrer, JD Morrow, F Rothganger, P Xavier, **BECCA: A functional model of the human brain for arbitrary task learning**, Grand Challenges in Neural Computation 2011
 
-28.   B Rohrer, JD Morrow, P Xavier, F Rothganger, **BECCA: A BICA for arbitrary robots in unknown worlds**, BICA 2010
+1.   B Rohrer, JD Morrow, P Xavier, F Rothganger, **BECCA: A BICA for arbitrary robots in unknown worlds**, BICA 2010
 
-27.   B Rohrer, **kx-trees: An unsupervised learning method for use in developmental agents**, ICDL 2010
+1.   B Rohrer, **kx-trees: An unsupervised learning method for use in developmental agents**, ICDL 2010
 
-26.   B Rohrer, **What we might look for in an AGI benchmark**, AGI 2010
+1.   B Rohrer, **What we might look for in an AGI benchmark**, AGI 2010
 
-25.   B Rohrer, JD Morrow, F Rothganger, PG Xavier, **Concepts from data**, BICA 2009
+1.   B Rohrer, JD Morrow, F Rothganger, PG Xavier, **Concepts from data**, BICA 2009
 
 24.   B Rohrer, M Bernard, JD Morrow, F Rothganger, P Xavier, **Model-free learning and control in a mobile robot**, ICNC 2009
 
@@ -135,7 +135,7 @@ Publications
 
 ##Invited
 
-10.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
+1.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
 
 9.   B Rohrer, **The Other Stuff: Getting from Machine Learning to Data Science**, The Data Science Conference, Chicago, Illinois, Nov 11, 2015
 
@@ -158,7 +158,7 @@ Publications
 
 ##Book Chapters
 
-4.   T Appel, R Fierro, B Rohrer, R Lumia, J Wood, A learning strategy for source tracking in unstructured environments, Reinforcement Learning and Approximate Dynamic Programming for Feedback Control, Ed. FL Lewis, D Liu. John Wiley and Sons (in press)
+1.   T Appel, R Fierro, B Rohrer, R Lumia, J Wood, A learning strategy for source tracking in unstructured environments, Reinforcement Learning and Approximate Dynamic Programming for Feedback Control, Ed. FL Lewis, D Liu. John Wiley and Sons (in press)
 
 3.   B Rohrer, S Hulet, BECCA: A Brain Emulating Cognition and Control Architecture, Progress in Biological Cybernetics Research, Ed. DA De Jong. Nova Publishers, 2008. pp 1-38
 
@@ -169,7 +169,7 @@ Publications
 
 ##Technical Reports
 
-14.   B Rohrer, JD Morrow, FH Rothganger, PG Xavier, JS Wagner, Final Report for LDRD Project 11-0783: Directed Robots for Increased Military Manpower Effectiveness, Sandia Technical Report SAND2011-7348, 2011
+1.   B Rohrer, JD Morrow, FH Rothganger, PG Xavier, JS Wagner, Final Report for LDRD Project 11-0783: Directed Robots for Increased Military Manpower Effectiveness, Sandia Technical Report SAND2011-7348, 2011
 
 13.   FH Rothganger, BR Rohrer, SJ Verzi, PG Xavier, Modeling Cortical Circuits, Sandia Technical Report SAND2010-6389, 2010
 
@@ -200,7 +200,7 @@ Publications
 
 ##Patents
 
-4. H Anderson, JW Wheeler, J Helms, KW Larson, BR Rohrer, Sparse Sampling and Reconstruction for Electron and Scanning Probe Microscope Imaging, 2015. US Patent No. 9,093,249
+1. H Anderson, JW Wheeler, J Helms, KW Larson, BR Rohrer, Sparse Sampling and Reconstruction for Electron and Scanning Probe Microscope Imaging, 2015. US Patent No. 9,093,249
 
 3.   JF Jones, BA Kast, MW Kniskern, SE Rose, BR Rohrer, JW Woods, RW Greene, Small Caliber Guided Projectile, 2010. US Patent No. 7,781,709
 
@@ -218,7 +218,7 @@ Publications
 
 ##Web
 
-100. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
+1. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
 
 99. B Rohrer, [Brandon Rohrer's Channel (multiple)] (https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube.
 
