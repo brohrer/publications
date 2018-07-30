@@ -135,7 +135,13 @@ Publications
 
 ## Invited
 
-1.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
+13.   B Rohrer, **[Data science archetypes](https://brohrer.github.io/data_science_archetypes.html)**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, July 24, 2018
+
+12.   B Rohrer, Data for Good, Open Data Science Conference, Boston, Massachusetts, May 2, 2018
+
+11.   B Rohrer, **[Next Steps for AI: Getting Closer to Human Intelligence with Robots](https://harvardbigdata.com/files/hbda/files/springkeynote_abstractbio.pdf)**, Harvard Big Data Club Spring Keynote, Cambridge, Massachusetts, Apr 19, 2018
+
+10.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
 
 9.   B Rohrer, **The Other Stuff: Getting from Machine Learning to Data Science**, The Data Science Conference, Chicago, Illinois, Nov 11, 2015
 
