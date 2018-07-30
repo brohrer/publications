@@ -139,7 +139,7 @@ Publications
 
 12.   B Rohrer, Data for Good, Open Data Science Conference, Boston, Massachusetts, May 2, 2018
 
-11.   B Rohrer, **[Next Steps for AI: Getting Closer to Human Intelligence with Robots](https://harvardbigdata.com/files/hbda/files/springkeynote_abstractbio.pdf)**, Harvard Big Data Club Spring Keynote, Cambridge, Massachusetts, Apr 19, 2018
+11.   B Rohrer, **[Next Steps for AI: Getting Closer to Human Intelligence with Robots](https://www.youtube.com/watch?v=0ILdnZmp3Iw&feature=youtu.be)**, Harvard Big Data Club Spring Keynote, Cambridge, Massachusetts, Apr 19, 2018
 
 10.   B Rohrer, **Open the Black Box**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, Oct 27, 2017
 
