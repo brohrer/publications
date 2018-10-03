@@ -232,6 +232,8 @@ Publications
 
 97. B Rohrer, [KDnuggets reposts (multiple)](http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
 
+19. J. Dry, [Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://blackswans.io/post/40/), [Black Swans blog](https://blackswans.io/), Oct 3, 2018.
+
 18. M. Mayo, [KDnuggets Top Blogger: An Interview with Brandon Rohrer, Top Data Scientist](http://www.kdnuggets.com/2017/02/top-blogger-interview-brandon-rohrer-data-science.html), [KDnuggets blog](http://www.kdnuggets.com/), Feb 13, 2017.
 
 17. B Rohrer, [Data Science for Absolutely Everybody](https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016.
