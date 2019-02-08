@@ -135,7 +135,7 @@ Publications
 
 ## Invited
 
-13.   B Rohrer, **[Data science archetypes](https://brohrer.github.io/data_science_archetypes.html)**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, July 24, 2018
+1.   B Rohrer, **[Data science archetypes](https://brohrer.github.io/data_science_archetypes.html)**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, July 24, 2018
 
 12.   B Rohrer, Data for Good, Open Data Science Conference, Boston, Massachusetts, May 2, 2018
 
