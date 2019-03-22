@@ -14,6 +14,8 @@ Publications
 
 ## Code
 
+* B Rohrer, [Pathfinder](https://github.com/facebookresearch/many-to-many-dijkstra), A many-to-many variant of Dijkstra's shortest path algorithm, 2019
+
 * B Rohrer, [Becca](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
 
 ## Journal
