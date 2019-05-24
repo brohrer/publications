@@ -137,7 +137,11 @@ Publications
 
 ## Invited
 
-1.   B Rohrer, **[Data science archetypes](https://brohrer.github.io/data_science_archetypes.html)**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, July 24, 2018
+15.   B Rohrer, **[What Do Your Neural Networks Learn? A Peek Inside the Black Box](https://drive.google.com/file/d/1ix6XG2PBB0zItfaGFWmq3k5pdkvlK3DO/view?usp=sharing)**, [Re-work Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-boston-2019), Boston, Massachusetts, May 23-24, 2019
+
+14.   B Rohrer, **[Finding a Data Science Path that Sparks Joy](https://brohrer.github.io/data_science_archetypes.html)**, ODSC East Career Day, May 5, 2019
+
+13.   B Rohrer, **[Data science archetypes](https://brohrer.github.io/data_science_archetypes.html)**, [Metis: Demystify Data Science](https://www.thisismetis.com/demystifying-data-science), online, July 24, 2018
 
 12.   B Rohrer, Data for Good, Open Data Science Conference, Boston, Massachusetts, May 2, 2018
 
@@ -226,57 +230,59 @@ Publications
 
 ## Web
 
-1. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog.
+1. B Rohrer, [Data Science and Robots (multiple)](http://brohrer.github.io/blog.html), Blog
 
-99. B Rohrer, [Brandon Rohrer's Channel (multiple)](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube.
+99. B Rohrer, [Brandon Rohrer's Channel (multiple)](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ), YouTube
 
-98. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com).
+98. B Rohrer, [Machine learning examples (multiple)](https://gallery.cortanaanalytics.com/Home/Author?authorId=A45B9C46BE3D2A79C7BF21A0E91E205066C4F21409C28B5EB871E3018F4C298A), [Microsoft Cortana Analytics Gallery](https://gallery.cortanaanalytics.com)
 
-97. B Rohrer, [KDnuggets reposts (multiple)](http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/).
+97. B Rohrer, [KDnuggets reposts (multiple)](http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/)
 
-19. J. Dry, [Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://blackswans.io/post/40/), [Black Swans blog](https://blackswans.io/), Oct 3, 2018.
+42. J Nigh, B Rohrer, [Don’t be afraid to try something new](https://stemonfire.com/79-data-scientist-at-facebook-dont-be-afraid-to-try-something-new-brandon-rohrer/), STEM on Fire Podcast, Mar 10, 2019
 
-18. M. Mayo, [KDnuggets Top Blogger: An Interview with Brandon Rohrer, Top Data Scientist](http://www.kdnuggets.com/2017/02/top-blogger-interview-brandon-rohrer-data-science.html), [KDnuggets blog](http://www.kdnuggets.com/), Feb 13, 2017.
+19. J. Dry, [Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://blackswans.io/post/40/), [Black Swans blog](https://blackswans.io/), Oct 3, 2018
 
-17. B Rohrer, [Data Science for Absolutely Everybody](https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016.
+18. M. Mayo, [KDnuggets Top Blogger: An Interview with Brandon Rohrer, Top Data Scientist](http://www.kdnuggets.com/2017/02/top-blogger-interview-brandon-rohrer-data-science.html), [KDnuggets blog](http://www.kdnuggets.com/), Feb 13, 2017
 
-16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016.
+17. B Rohrer, [Data Science for Absolutely Everybody](https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS02), [Microsoft Data Science Summit page] (https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016), Sep 26, 2016
 
-15. B Rohrer, [Data Science for Beginners video 4: Predict an answer with a simple model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-predict-an-answer-with-a-simple-model/), Microsoft Azure documentation page, Jun 29, 2016.
+16. B Rohrer, [Data Science for Beginners video 5: Copy other people's work to do data science](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science/), Microsoft Azure documentation page, Jun 30, 2016
 
-14. B Rohrer, [Data Science for Beginners video 3: Ask a question you can answer with data](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-ask-a-question-you-can-answer-with-data/), Microsoft Azure documentation page, Jun 28, 2016.
+15. B Rohrer, [Data Science for Beginners video 4: Predict an answer with a simple model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-predict-an-answer-with-a-simple-model/), Microsoft Azure documentation page, Jun 29, 2016
 
-13. B Rohrer, [Data Science for Beginners video 2: Is your data ready for data science?](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science/), Microsoft Azure documentation page, Jun 27, 2016.
+14. B Rohrer, [Data Science for Beginners video 3: Ask a question you can answer with data](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-ask-a-question-you-can-answer-with-data/), Microsoft Azure documentation page, Jun 28, 2016
 
-12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016.
+13. B Rohrer, [Data Science for Beginners video 2: Is your data ready for data science?](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science/), Microsoft Azure documentation page, Jun 27, 2016
 
-11. B Rohrer, [A Pocket Guide to Data Science](http://brohrer.github.io/pocket_guide_data_science.html), blog post, Apr 5, 2016.
+12. B Rohrer, [Data Science for Beginners video 1: The 5 questions data science answers](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/), Microsoft Azure documentation page, Jun 24, 2016
 
-10. B Rohrer, [A One-Step Program for Becoming a Data Scientist](http://brohrer.github.io/one_step_program_become_data_scientist.html), blog post, Jan 24, 2016.
+11. B Rohrer, [A Pocket Guide to Data Science](http://brohrer.github.io/pocket_guide_data_science.html), blog post, Apr 5, 2016
 
-9. B Rohrer, [You Can Stop Chasing Unicorns](http://brohrer.github.io/stop_chasing_unicorns.html), blog post, Dec 15, 2016.
+10. B Rohrer, [A One-Step Program for Becoming a Data Scientist](http://brohrer.github.io/one_step_program_become_data_scientist.html), blog post, Jan 24, 2016
 
-8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015.
+9. B Rohrer, [You Can Stop Chasing Unicorns](http://brohrer.github.io/stop_chasing_unicorns.html), blog post, Dec 15, 2016
 
-7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science](http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015.
+8. B Rohrer, [**Data Science for the Rest of Us**](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Rest-of-Us), webinar, Dec 2, 2015
 
-6. B Rohrer, [How to Find an Algorithm that Fits](http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015.
+7. B Rohrer, [Getting Dollars from Data: Fueling Business Value with Data Science](http://blogs.technet.com/b/machinelearning/archive/2015/10/06/getting-dollars-from-data-fueling-business-value-with-data-science.aspx), Microsoft Machine Learning Blog, Oct 6, 2015
+
+6. B Rohrer, [How to Find an Algorithm that Fits](http://blogs.technet.com/b/machinelearning/archive/2015/09/22/how-to-find-an-algorithm-that-fits.aspx), Microsoft Machine Learning Blog, Sep 22, 2015
  
-5. B Rohrer, [Which Algorithm Family Can Solve My Question?](http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015.
+5. B Rohrer, [Which Algorithm Family Can Solve My Question?](http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx), Microsoft Machine Learning Blog, Sep 1, 2015
 
-4. B Rohrer, [What Types of Questions Can Data Science Answer?](http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx), Microsoft Machine Learning Blog, Aug 27, 2015. [Reposted](http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html/1), KDNuggets, Oct 3, 2015.
+4. B Rohrer, [What Types of Questions Can Data Science Answer?](http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx), Microsoft Machine Learning Blog, Aug 27, 2015. [Reposted](http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html/1), KDNuggets, Oct 3, 2015
 
-3. B Rohrer, [What Can Data Science Do For Me?](http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015.
+3. B Rohrer, [What Can Data Science Do For Me?](http://blogs.technet.com/b/machinelearning/archive/2015/08/26/what-can-data-science-do-for-me.aspx), Microsoft Machine Learning Blog, Aug 26, 2015
 
-2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015.
+2. B Rohrer, [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/), Microsoft Azure Documentation, Aug 10, 2015
 
-1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015.
+1. B Rohrer, [How to choose algorithms for Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/), Microsoft Azure Documentation, Aug 10, 2015
 
-## Press
 
-* S Olson, Researcher predicts AIs with dog-level intelligence within a decade, Next Big Future, Jan 3, 2012.
+42. S Olson, Researcher predicts AIs with dog-level intelligence within a decade, Next Big Future, Jan 3, 2012
 
-* A Kruel, Q&A with experts on risks from AI #1, LessWrong, Jan 8, 2012.
+42. A Kruel, Q&A with experts on risks from AI #1, LessWrong, Jan 8, 2012
+
 
 
 Community
