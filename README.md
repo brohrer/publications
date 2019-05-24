@@ -1,22 +1,11 @@
 Publications
 ============
 
-## Selected papers on general machine intelligence
-
-
-* B Rohrer, **BECCA: Reintegrating AI for natural world interaction**, AAAI Spring Symposium on Designing Intelligent Robots: Reintegrating AI 2012
-
-* B Rohrer, **Biologically inspired feature creation for multi-sensory perception**, BICA 2011
-
-* B Rohrer, **A developmental agent for learning features, environment models, and general robotics tasks**, ICDL/Epirob 2011
-
-* B Rohrer, **Accelerating progress in Artificial General Intelligence: Choosing a benchmark for natural world interaction**, Journal of Artificial General Intelligence, 2:1-28, 2010
-
 ## Code
 
 * B Rohrer, [Pathfinder](https://github.com/facebookresearch/many-to-many-dijkstra), A many-to-many variant of Dijkstra's shortest path algorithm, 2019
 
-* B Rohrer, [Becca](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
+* B Rohrer, [Robot Brain Project](https://github.com/brohrer/becca) version 8, A deep reinforcement learner, 2016
 
 ## Journal
 
