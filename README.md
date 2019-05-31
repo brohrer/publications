@@ -227,7 +227,9 @@ Publications
 
 97. B Rohrer, [KDnuggets reposts (multiple)](http://www.kdnuggets.com/author/brandon-rohrer), [KDnuggets blog](http://www.kdnuggets.com/)
 
-42. J Nigh, B Rohrer, [Don’t be afraid to try something new](https://stemonfire.com/79-data-scientist-at-facebook-dont-be-afraid-to-try-something-new-brandon-rohrer/), STEM on Fire Podcast, Mar 10, 2019
+21. R May, B Rohrer, [Data Science at Facebook and iRobot](https://www.buzzsprout.com/254320/1214804), AI@Work, Season 1, Episode 43, May 31, 2019
+
+20. J Nigh, B Rohrer, [Don’t be afraid to try something new](https://stemonfire.com/79-data-scientist-at-facebook-dont-be-afraid-to-try-something-new-brandon-rohrer/), STEM on Fire Podcast, Mar 10, 2019
 
 19. J. Dry, [Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://blackswans.io/post/40/), [Black Swans blog](https://blackswans.io/), Oct 3, 2018
 
